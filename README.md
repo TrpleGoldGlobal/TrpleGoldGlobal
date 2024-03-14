@@ -17,11 +17,6 @@ The key to growth of the Titan ecosystem will be created by implementing various
    We will support Utility tokens so that ecosystem participants can launch and operate various dApps.
    Utility tokens are used as a payment method for platforms within the ecosystem, in addition to participation rewards, transaction fee reductions, and use of special services within the ecosystem.
 
-Our Vision
--------------
-The Titan Project was launched in cooperation with Korea's OwF Co., Ltd. and Triple Gold Ventures. We will transform gold, a highly reliable real asset, into an innovative, safe, and highly efficient digital asset and create a blockchain ecosystem capable of sustainable growth.
-We will build the foundation of a stable asset environment that provides global access to gold trading based on transparency of the mining and bullion deposit process. We will support the sustainability of ecosystem participants by providing a dApp service environment with various transaction and asset management methods.
-
 The Blockchain ecosystem, backed by physical gold
 -------------
 The titan ecosystem will deposit physical gold as reserve ratio in reputable bank vaults and generate the corresponding stablecoin TAU.
